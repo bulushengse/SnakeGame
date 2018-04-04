@@ -1,0 +1,3 @@
+使用提供的JNI库consoles.dll，以及源文件Consoles.java。
+库中提供了一些JNI方法，依赖于64位windows系统。
+要确保它们是在同一文件夹中。
